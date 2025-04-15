@@ -1,0 +1,11 @@
+
+.carousel-item img {
+    max-height: 400px; 
+    object-fit: cover; 
+    object-position: inherit;
+  }
+
+
+#MiCarrusel{
+    max-width: 100%; /* Ajusta el ancho máximo según tus necesidades */
+}
